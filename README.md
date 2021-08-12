@@ -9,6 +9,13 @@
 	</a>
 </div>
 
+
+## ❤ Views
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=WalidBerehil">
+</a>
+<a href="https://github.com/WalidBerehil?tab=followers"><img src="https://img.shields.io/github/followers/WalidBerehil?label=Followers&style=social" alt="GitHub Badge"></a>
+
 <!--
 **WalidBerehil/WalidBerehil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
